@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Umar Farooq</h1>
+<h1 align="center">Hi 👋, I'm Faisal Ismail</h1>
 <h3 align="center">A passionate MERN Stack Developer.</h3>
-
-- 🔭 I’m currently working on **The Que**
 
 - 💬 Ask me about **React, Node, Mongodb, Express, JavaScript, EcmaScript**
 
-- 📫 How to reach me **muhammad.umar2872@gmail.com**
+- 📫 How to reach me **faisalismail4043@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
